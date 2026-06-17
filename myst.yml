@@ -22,6 +22,7 @@ project:
         - file: notebooks/eofs-2d.ipynb
         - file: notebooks/eofs-3d.ipynb
         - file: notebooks/freq-decomp.ipynb
+        - file: notebooks/extended-eofs.ipynb
 
   jupyter:
       binder:
