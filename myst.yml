@@ -18,6 +18,7 @@ project:
     - title: Data Analysis Methods
       children:
         - file: notebooks/Harmonic_Analysis.ipynb
+        - file: notebooks/harmonic_anomalies.ipynb
         - file: notebooks/gibbs-phenomenon.ipynb
         - file: notebooks/eofs-2d.ipynb
         - file: notebooks/eofs-3d.ipynb  
